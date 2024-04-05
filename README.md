@@ -1,18 +1,9 @@
-# VR-Game-Jam-Template
- Starter Project using Unity XR Toolkit created for VR Jam 2023
+# Roll a Ball VR-Game by Simon Demuth
+Created at THI 2024
 
-# Learn More About This Project
-[<img src="https://i.ytimg.com/vi/apnfGuMI0Dc/maxresdefault.jpg" width="50%">](https://youtu.be/apnfGuMI0Dc)
+This is a VR-Game, where the player has to grab and tilt a wood-gameboard in order to navigate the metal-ball. The goal is to collect all yellow-cubes, without falling through a hole in the game-board.
+The game features a bouncy ball, nice textures, holes in the game-board and point-stats shown to the user.
 
-https://youtu.be/apnfGuMI0Dc
+See a demo video here:
+https://drive.google.com/file/d/1WJGIEZP7KFuGnWBVZjtOzChGL7sW9dip/view?usp=drive_link
 
-# External Ressources
-This project uses a combination of these assets and tutorials :
-
-https://youtu.be/6OT43pvUyfY
-
-https://youtu.be/JCyJ26cIM0Y
-
-https://kenney.nl/assets?q=audio
-
-https://github.com/Unity-Technologies/XR-Interaction-Toolkit-Examples
