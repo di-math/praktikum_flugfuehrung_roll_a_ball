@@ -5,5 +5,5 @@ This is a VR-Game, where the player has to grab and tilt a wood-gameboard in ord
 The game features a bouncy ball, nice textures, holes in the game-board and point-stats shown to the user.
 
 See a demo video here:
-https://drive.google.com/file/d/1WJGIEZP7KFuGnWBVZjtOzChGL7sW9dip/view?usp=drive_link
+https://drive.google.com/file/d/1WJGIEZP7KFuGnWBVZjtOzChGL7sW9dip/view?usp=sharing
 
